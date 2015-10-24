@@ -674,3 +674,1061 @@
     margin-top: 50px;
     text-decoration: none;
 }
+
+@media(max-width: 770px){
+	.head img{
+		margin-left: 25%;
+	}
+	.head p{
+		padding-left: 1%;
+		width:55%;
+	}
+	.head h1{
+		width: 55%;
+	}
+	.img a{
+		margin-left: 0px;
+	}
+	.two a{
+		margin-left: 30%;
+	}
+	.three a{
+		margin-left: 60%;
+	}
+	.end {
+		margin-left: 50%;
+	}
+	.new h4{
+		width:75%;
+	}
+	.arrow img{
+		margin-left: 15%;
+	}
+	.hello p{
+		margin-left: 0px;
+		width:90%;
+	}
+	.brands img{
+		width:80%;
+	}
+	.globe{
+		margin-left: 0px;
+	}
+	.itachi h5{
+		margin-top: 65%;
+		margin-left: 1%;
+		width:99%;
+	}
+	.column{
+		margin-left: 1%;
+	}
+	.column-end{
+		margin-left: 50%;
+	}
+	.end2 img{
+		margin-left: 10%;
+	}
+	#bk h1{
+		width:80%;
+
+	}
+	.end3 img{
+		margin-left: 30%;
+	}
+	#basecamp{
+		margin-left: 10%;
+	}
+	#highrise{
+		margin-left:40%;
+	}
+	#campfire{
+		margin-left: 70%;
+	}
+	.service h1{
+		margin-left:1%;
+	}
+	.service a{
+		margin-left: 10%;
+	}
+	.service p{
+		margin-left: 10%;
+	}
+	.our h1{
+		margin-left: 50%;
+	}
+	.our a{
+		margin-left: 62%;
+	}
+	.our p{
+		margin-left: 52%;
+	}
+	#a2 p{
+		margin-left: 10%;
+	}
+	#s p{
+		margin-left: 10%;
+	}
+	.end4{
+		margin-left: 45%;
+	}
+
+}
+@media(max-width: 633px){
+	body{
+		width: 632px;
+	}
+	.top{
+		margin-left: 10%;
+		width:150%;
+		font-size: 12px;
+
+	}
+	.top ul{
+		width: 90%;
+	}
+	.head img{
+		margin-left: 15%;
+	}
+	.head p{
+		font-size: 30px;
+		width: 34%;
+		margin-left: 3.5%;
+		line-height: 1.2em;
+	}
+	.head h1{
+		width:80%;
+		font-size: 16px;
+		margin-left: -17%;
+		margin-top: 4%;
+	}
+	.img{
+		margin-left: 7%;
+		margin-top: -30px;
+	}
+	.img a{
+		margin-left: -6%;
+		width:150px;
+	}
+	.img a img{
+		width:90%;
+		margin-left: 2%;
+	}
+	.img a h2{
+		font-size: 16px;
+		margin-left: -7%;
+	}
+	.img a h3{
+		font-size: 14px;
+	}
+	.img a p{
+		font-size: 12px;
+		width:80%;
+	}
+
+	.two a{
+		margin-left: 25%;
+		width:150px;
+	}
+	.two a img{
+		width:90%;
+		margin-left: 5%;
+	}
+	.two a h2{
+		font-size: 16px;
+		margin-left: 10%;
+	}
+	.two a h3{
+		font-size: 14px;
+		width:150px;
+		margin-left: -4px;
+	}
+	.two a p{
+		font-size: 12px;
+		width:80%;
+		margin-top: 20px;
+	}
+
+	.three a{
+		margin-left: 55%;
+		width:150px;
+	}
+	.three a img{
+		width:90%;
+		margin-left: 5%;
+	}
+	.three a h2{
+		font-size: 16px;
+	}
+	.three a h3{
+		font-size: 14px;
+		width:150px;
+		margin-left: -5px;
+	}
+	.three a p{
+		font-size: 12px;
+		width:80%;
+		margin-top: 30px;
+	}
+
+	.end {
+		margin: 10% 40%;
+	}
+	.new h4{
+		font-size: 28px;
+	}
+	.arrow {
+		margin-left: -130%;
+	}
+	.hello p{
+		margin-top: -40%;
+		font-size: 24px;
+		width:70%;
+		margin-left: -15%;
+	}
+	.globe img{
+		width:50%;
+		margin-left: 55%;
+	}
+	.brands img{
+		width:500px;
+		margin-left: -15%;
+	}
+	.itachi h5{
+		font-size: 32px;
+		width:550px;
+		margin-top: 70%;
+		margin-left: 6%;
+	}
+	.column{
+		margin-left: 1%;
+	}
+	.column h2{
+		font-size: 14px;
+	}
+	.column p{
+		font-size: 12px;
+		width:230px;
+	}
+	.column-end{
+		margin-top: -74%;
+		margin-left: 46%;
+	}
+	.column-end h2{
+		font-size: 14px;
+	}
+	.column-end p{
+		font-size: 12px;
+		width:270px;
+	}
+	.end2{
+		margin-left: 30px -200px;
+	}
+	.book #bk h1{
+		font-size: 26px;
+		width:400px;
+		margin-left: 10%;
+	}
+	#cp a img{
+		width:50%;
+		margin-left: -22%;
+		margin-top: 15%;
+	}
+	#find a h5{
+		margin-left: -40%;
+	}
+	#arr img{
+		margin-top: 15%;
+	}
+	.word p {
+		font-size: 16px;
+		margin-top: -250%;
+		width: 300px;
+		margin-left: -250px;
+	}
+	.word h3{
+		width:300px;
+		margin-left: -260px;
+		font-size: 14px;
+	}
+	.word2 p{
+		font-size: 16px;
+		width:300px;
+		margin-left: -250px;
+	}
+	.word2 h3{
+		width: 300px;
+		margin-left: -260px;
+		font-size: 14px;
+	}
+	.end3 img{
+		margin:20 250px;
+	}
+	.nuts h6{
+		font-size: 36px;
+		margin-top: 80px;
+	}
+	#basecamp{
+		margin-left: -5px;
+	}
+	#basecamp a img{
+		margin-left: 8%;
+	}
+	#basecamp h1{
+		font-size: 18px;
+		margin-left: 10%;
+	}
+	#basecamp h2{
+		font-size: 14px;
+		margin-left: 7%;
+	}
+	#basecamp p{
+		width:100px;
+		margin-left: 8%;
+	}
+	#highrise{
+		margin-left: 40%;
+	}
+	#highrise a img{
+		margin-top:-3.5%;
+	}
+	#campfire a img{
+		margin-left: 4%;
+		margin-top: 0;
+	}
+	.story p{
+		margin-left: 200px;
+	}
+	.open h1{
+		margin-top: 10px;
+	}
+	
+	.service h1{
+		font-size: 10.5px;
+	}
+	.service a{
+		font-size: 10px;
+	}
+	.service a{
+		margin-left: 20%;
+	}
+	.service p{
+		font-size: 9px;
+	}
+	.story p{
+		margin-left: 10%;
+	}
+	.our h1{
+		margin-top: -62%;
+		margin-left: 45%;
+	}
+	.our a{
+		margin-left: 65%;
+	}
+	.open h1{
+		margin-top: -67%;
+		margin-left: 45%;
+	}
+
+
+
+@media(max-width: 415px){
+	body{
+		width: 414px;
+	}
+	.top{
+		margin-left: 10%;
+		width:130%;
+		font-size: 9px;
+
+	}
+	.top ul{
+		width: 90%;
+	}
+	.head img{
+		margin-left: 10%;
+	}
+	.head p{
+		font-size: 24px;
+		width: 28%;
+	}
+	.head h1{
+		width:29%;
+		font-size: 10px;
+	}
+	.img a{
+		margin-left: -5%;
+		width:100px;
+	}
+	.img a img{
+		width:50%;
+		margin-left: 5%;
+	}
+	.img a h2{
+		font-size: 14px;
+	}
+	.img a h3{
+		font-size: 12px;
+	}
+	.img a p{
+		font-size: 10px;
+		width:50%;
+	}
+
+	.two a{
+		margin-left: 16%;
+		width:100px;
+	}
+	.two a img{
+		width:50%;
+		margin-left: 5%;
+	}
+	.two a h2{
+		font-size: 14px;
+	}
+	.two a h3{
+		font-size: 12px;
+	}
+	.two a p{
+		font-size: 10px;
+		width:65%;
+	}
+
+	.three a{
+		margin-left: 48%;
+		width:100px;
+	}
+	.three a img{
+		width:50%;
+		margin-left: 5%;
+	}
+	.three a h2{
+		font-size: 14px;
+	}
+	.three a h3{
+		font-size: 12px;
+	}
+	.three a p{
+		font-size: 10px;
+		width:57%;
+	}
+
+	.end {
+		margin: 0 40%;
+	}
+	.new h4{
+		font-size: 24px;
+	}
+	.arrow {
+		margin: 0 auto;
+	}
+	.hello p{
+		font-size: 20px;
+		width:380px;
+		margin-left: -10%;
+	}
+	.itachi h5{
+		font-size: 20px;
+		margin-top: 100%;
+	}
+	.column{
+		margin-left: 5%;
+	}
+	.column-end{
+		margin-top: 5%;
+		margin-left: 5%;
+	}
+	.end2{
+		margin: 0 auto;
+	}
+	.book #bk h1{
+		font-size: 18px;
+	}
+	#cp a img{
+		display:none;
+	}
+	#find a h5{
+		display:none;
+	}
+	#arr img{
+		display:none;
+	}
+	.word p {
+		font-size: 14px;
+		margin-top: 160%;
+		width: 405px;
+		margin-left: -330px;
+	}
+	.word h3{
+		width:300px;
+		margin-left: -300px;
+	}
+	.word2 p{
+		font-size: 14px;
+		width:400px;
+		margin-left: -330px;
+	}
+	.word2 h3{
+		width: 300px;
+		margin-left: -300px;
+	}
+	.end3 img{
+		margin:0 270px;
+	}
+	.nuts h6{
+		font-size: 22px;
+	}
+	.service{
+		margin-left: -10%;
+	}
+	.story p{
+		margin-left: 200px;
+	}
+	.open h1{
+		margin-top: -470px;
+	}
+	#basecamp p{
+		width:80px;
+		margin-left: 0px;
+	}
+	#highrise img{
+		margin-top: -13%;
+	}
+	#highrise p{
+		width:80px;
+		margin-left: 5px;
+	}
+	#campfire img{
+		margin-top: -35%;
+	}
+	#campfire p{
+		width:80px;
+		margin-left: 5px;
+	}
+	.service a{
+		font-size: 14px;
+		margin-left: 17%;
+	}
+	.service p{
+		font-size: 12px;
+		width:150px;
+		line-height: 1.2em;
+	}
+	.story a{
+		font-size: 14px;
+		margin-left: 13%;
+	}
+	.story p{
+		font-size: 12px;
+		width: 150px;
+		line-height: 1.2em;
+		margin-left: 10%;
+	}
+	.our h1{
+		font-size: 14px;
+		margin-top:-99%;
+		margin-left: 40%;
+	}
+	.our a{
+		font-size: 14px;
+		margin-left: 60%;
+	}
+	.open h1{
+		font-size: 14px;
+		margin-top: -90%;
+	}
+	.copyright h1 {
+		font-size: 7px;
+	}
+}
+
+@media(max-width: 376px){
+	body{
+		width: 375px;
+	}
+	.top{
+		margin-left: 10%;
+		width:130%;
+		font-size: 9px;
+
+	}
+	.top ul{
+		width: 90%;
+	}
+	.head img{
+		margin-left: 10%;
+	}
+	.head p{
+		font-size: 23px;
+		width: 28%;
+		margin-left: -2%;
+	}
+	.head h1{
+		width:29%;
+		font-size: 9px;
+		margin-left: -1%;
+	}
+	.img a{
+		margin-left: -6%;
+		width:90px;
+	}
+	.img a img{
+		width:50%;
+		margin-left: 5%;
+	}
+	.img a h2{
+		font-size: 14px;
+	}
+	.img a h3{
+		font-size: 12px;
+	}
+	.img a p{
+		font-size: 10px;
+		width:50%;
+	}
+
+	.two a{
+		margin-left: 13%;
+		width:90px;
+	}
+	.two a img{
+		width:50%;
+		margin-left: 5%;
+	}
+	.two a h2{
+		font-size: 14px;
+	}
+	.two a h3{
+		font-size: 12px;
+	}
+	.two a p{
+		font-size: 10px;
+		width:65%;
+	}
+
+	.three a{
+		margin-left: 48%;
+		width:90px;
+	}
+	.three a img{
+		width:50%;
+		margin-left: 5%;
+	}
+	.three a h2{
+		font-size: 14px;
+	}
+	.three a h3{
+		font-size: 12px;
+	}
+	.three a p{
+		font-size: 10px;
+		width:50%;
+	}
+
+	.end {
+		margin: 0 40%;
+	}
+	.new h4{
+		font-size: 18px;
+	}
+	.arrow {
+		display:none;
+	}
+	.hello p{
+		font-size: 18px;
+		width:350px;
+		margin-left: -10%;
+	}
+	.itachi h5{
+		font-size: 20px;
+		width:300px;
+		margin-top: 80%;
+		margin-left: 10%;
+	}
+	.column{
+		margin-left: 0%;
+	}
+	.column-end{
+		margin-top: 5%;
+		margin-left: 0%;
+	}
+	.end2{
+		margin: 0 auto;
+	}
+	.book #bk h1{
+		font-size: 18px;
+	}
+	#cp a img{
+		display:none;
+	}
+	#find a h5{
+		display:none;
+	}
+	#arr img{
+		display:none;
+	}
+	.word p {
+		font-size: 14px;
+		margin-top: 160%;
+		width: 405px;
+		margin-left: -330px;
+	}
+	.word h3{
+		width:300px;
+		margin-left: -300px;
+	}
+	.word2 p{
+		font-size: 14px;
+		width:400px;
+		margin-left: -330px;
+	}
+	.word2 h3{
+		width: 300px;
+		margin-left: -300px;
+	}
+	.end3 img{
+		margin:0 270px;
+	}
+	.nuts h6{
+		font-size: 22px;
+	}
+	.service{
+		margin-left: -10%;
+	}
+	.story p{
+		margin-left: 200px;
+	}
+	.open h1{
+		margin-top: -470px;
+	}
+	#basecamp{
+		margin-left: -1%;
+	}
+	#basecamp img{
+		width:20%;
+		margin-top: 3px;
+	}
+	#basecamp h1{
+		font-size: 16px;
+	}
+	#basecamp h2{
+		font-size: 12px;
+	}
+	#basecamp p{
+		margin-left: 3%;
+	}
+	#highrise{
+		margin-top: -52%;
+		margin-left: 38%;
+
+	}
+	#highrise img{
+		width:30%;
+		margin-top: -1%;
+	}
+	#highrise h1{
+		font-size: 16px;
+	}
+	#highrise h2{
+		font-size: 12px;
+	}
+	#campfire{
+		margin-left: 69%;
+		margin-top: -57%;
+	}
+	#campfire img{
+		width:60%;
+		margin-top: -15px;
+	}
+	#campfire h1{
+		font-size: 16px;
+	}
+	#campfire h2{
+		font-size: 12px;
+	}
+	.story p{
+		margin-left: 10%;
+	}
+	.our h1{
+		margin-top: -109%;
+	}
+	.open{
+		margin-top: 121%;
+	}
+	.copyright h1 {
+		font-size: 7px;
+	}
+}
+
+@media(max-width: 321px){
+	body{
+		width: 320px;
+	}
+	.top{
+		margin-left: 10%;
+		width:150%;
+		font-size: 8px;
+
+	}
+	.top ul{
+		width: 90%;
+	}
+	.head img{
+		margin-left: 7%;
+	}
+	.head p{
+		font-size: 20px;
+		width: 28%;
+		margin-left: -3.5%;
+		line-height: 1.4em;
+	}
+	.head h1{
+		width:20%;
+		font-size: 9px;
+		margin-left: 2%;
+		margin-top: 2%;
+	}
+	.img a{
+		margin-left: -6%;
+		width:80px;
+	}
+	.img a img{
+		width:50%;
+		margin-left: 2%;
+	}
+	.img a h2{
+		font-size: 13px;
+		margin-left: -7%;
+	}
+	.img a h3{
+		font-size: 11px;
+	}
+	.img a p{
+		font-size: 10px;
+		width:60%;
+	}
+
+	.two a{
+		margin-left: 8%;
+		width:80px;
+	}
+	.two a img{
+		width:50%;
+		margin-left: 5%;
+	}
+	.two a h2{
+		font-size: 13px;
+	}
+	.two a h3{
+		font-size: 11px;
+	}
+	.two a p{
+		font-size: 10px;
+		width:65%;
+	}
+
+	.three a{
+		margin-left: 41%;
+		width:80px;
+	}
+	.three a img{
+		width:50%;
+		margin-left: 5%;
+	}
+	.three a h2{
+		font-size: 13px;
+	}
+	.three a h3{
+		font-size: 11px;
+	}
+	.three a p{
+		font-size: 10px;
+		width:50%;
+	}
+
+	.end {
+		margin: 0 40%;
+	}
+	.new h4{
+		font-size: 16px;
+	}
+	.arrow {
+		display:none;
+	}
+	.hello p{
+		font-size: 16px;
+		width:300px;
+		margin-left: -10%;
+	}
+	.itachi h5{
+		font-size: 18px;
+		width:280px;
+		margin-top: 80%;
+		margin-left: 6%;
+	}
+	.column{
+		margin-left: 0%;
+	}
+	.column h2{
+		font-size: 13px;
+	}
+	.column p{
+		font-size: 11px;
+		width:230px;
+	}
+	.column-end{
+		margin-top: 5%;
+		margin-left: 0%;
+	}
+	.column-end h2{
+		font-size: 13px;
+	}
+	.column-end p{
+		font-size: 11px;
+		width:230px;
+	}
+	.end2{
+		margin-left: -100px;
+	}
+	.book #bk h1{
+		font-size: 16px;
+	}
+	#cp a img{
+		display:none;
+	}
+	#find a h5{
+		display:none;
+	}
+	#arr img{
+		display:none;
+	}
+	.word p {
+		font-size: 12px;
+		margin-top: 200%;
+		width: 280px;
+		margin-left: -250px;
+	}
+	.word h3{
+		width:280px;
+		margin-left: -260px;
+		font-size: 10px;
+	}
+	.word2 p{
+		font-size: 12px;
+		width:280px;
+		margin-left: -250px;
+	}
+	.word2 h3{
+		width: 280px;
+		margin-left: -260px;
+		font-size: 10px;
+	}
+	.end3 img{
+		margin:-40 290px;
+	}
+	.nuts h6{
+		font-size: 18px;
+	}
+	.service{
+		margin-left: -10%;
+	}
+	.story p{
+		margin-left: 200px;
+	}
+	.open h1{
+		margin-top: -470px;
+	}
+	#basecamp{
+		margin-left: -1%;
+	}
+	#basecamp img{
+		width:20%;
+		margin-top: 5px;
+	}
+	#basecamp h1{
+		font-size: 12px;
+	}
+	#basecamp h2{
+		font-size: 10px;
+		margin-left: 3%;
+	}
+	#basecamp p{
+		margin-left: 3%;
+	}
+	#highrise{
+		margin-top: -57%;
+		margin-left: 38%;
+
+	}
+	#highrise img{
+		width:30%;
+		margin-top: 1%;
+	}
+	#highrise h1{
+		font-size: 12px;
+	}
+	#highrise h2{
+		font-size: 10px;
+	}
+	#campfire{
+		margin-left: 66%;
+		margin-top: -62%;
+	}
+	#campfire img{
+		width:60%;
+		margin-top: -15px;
+	}
+	#campfire h1{
+		font-size: 12px;
+	}
+	#campfire h2{
+		font-size: 10px;
+	}
+	.service h1{
+		font-size: 10.5px;
+	}
+	.service a{
+		font-size: 10px;
+	}
+	.service p{
+		font-size: 9px;
+	}
+	.story p{
+		margin-left: 10%;
+	}
+	.our{
+		margin-top:7.5%;
+	}
+	.our h1{
+		margin-top: -109%;
+	}
+	.open{
+		margin-top: 121%;
+	}
+	.open h1{
+		margin-left: 30%;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
